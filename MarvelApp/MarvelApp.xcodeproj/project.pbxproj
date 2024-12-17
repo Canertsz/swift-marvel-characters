@@ -91,6 +91,7 @@
 				326CF6BE2D0069AF00862CCD /* MarvelApp */,
 				326CF6D52D0069B000862CCD /* MarvelAppTests */,
 				326CF6DF2D0069B000862CCD /* MarvelAppUITests */,
+				326CF71D2D02015400862CCD /* Frameworks */,
 				326CF6BD2D0069AF00862CCD /* Products */,
 			);
 			sourceTree = "<group>";
@@ -103,6 +104,13 @@
 				326CF6DC2D0069B000862CCD /* MarvelAppUITests.xctest */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		326CF71D2D02015400862CCD /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -208,6 +216,8 @@
 			);
 			mainGroup = 326CF6B32D0069AF00862CCD;
 			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+			);
 			preferredProjectObjectVersion = 77;
 			productRefGroup = 326CF6BD2D0069AF00862CCD /* Products */;
 			projectDirPath = "";
